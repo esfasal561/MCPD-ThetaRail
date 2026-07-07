@@ -1,3 +1,10 @@
+---
+layout: default
+title: Tenaglia Railway
+---
+
+# Tenaglia Railway
+
 # Testa di Tenaglia e Railway Toroidale
 
 ## Geometria
