@@ -5,7 +5,7 @@ title: Dome & Ugello Magnetico
 
 # Dome & Ugello Magnetico
 
-# Deflettore Dome e Ugello Magnetico
+Descrizione del dome magnetico, steering del plasma e geometria dell’ugello
 
 ## Deflettore Dome
 Sistema di thrust vectoring senza parti meccaniche:
