@@ -5,6 +5,11 @@ title: Tenaglia Railway
 
 # Tenaglia Railway
 
+Struttura della tenaglia magnetica e ruolo nel trasferimento dell’impulso ciclotronico.
+
+
+# Tenaglia Railway
+
 # Testa di Tenaglia e Railway Toroidale
 
 ## Geometria
