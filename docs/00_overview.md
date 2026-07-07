@@ -1,3 +1,12 @@
+---
+layout: default
+title: Overview MCPD
+---
+
+# Overview MCPD
+
+
+
 # MCPD – Overview del Sistema
 
 Il MCPD (Magneto‑Cyclotronic Pulsed Drive) è un sistema di propulsione avanzato basato sulla generazione, estrazione, accelerazione, compressione e collimazione di plasma ad alta energia.
