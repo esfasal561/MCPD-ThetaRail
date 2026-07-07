@@ -1,3 +1,10 @@
+---
+layout: default
+title: Railway Lineare
+---
+
+# Railway Lineare
+
 # Railway Lineare a Condensatori Switchati
 
 ## Funzione
