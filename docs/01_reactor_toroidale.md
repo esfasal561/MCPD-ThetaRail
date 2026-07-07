@@ -1,3 +1,10 @@
+---
+layout: default
+title: Reattore Toroidale
+---
+
+# Reattore Toroidale
+
 # Reattore Spark Toroidale
 
 ## Funzione
