@@ -5,6 +5,8 @@ title: Reattore Toroidale
 
 # Reattore Toroidale
 
+Descrizione del reattore toroidale MCPD e del confinamento magnetico.
+
 # Reattore Spark Toroidale
 
 ## Funzione
