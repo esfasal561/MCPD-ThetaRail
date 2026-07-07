@@ -5,6 +5,10 @@ title: Compressione MCPC θ
 
 # Compressione MCPC θ
 
+Spiegazione della compressione magneto‑ciclotronica e del ruolo dell’angolo θ.
+
+# Compressione MCPC θ
+
 # Camera di Compressione MCPC + θ‑Pinch
 
 ## Struttura
