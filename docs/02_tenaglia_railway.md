@@ -3,6 +3,8 @@ layout: default
 title: Tenaglia Railway
 ---
 
+![Tenaglia MCPD](assets/images/tenaglia_mcpd_transparent_toroid.jpg)
+
 # Tenaglia Railway
 
 Struttura della tenaglia magnetica e ruolo nel trasferimento dell’impulso ciclotronico.
