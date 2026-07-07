@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dome & Ugello Magnetico
+---
+
+# Dome & Ugello Magnetico
+
 # Deflettore Dome e Ugello Magnetico
 
 ## Deflettore Dome
