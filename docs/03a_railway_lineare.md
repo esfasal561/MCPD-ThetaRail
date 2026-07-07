@@ -5,6 +5,8 @@ title: Railway Lineare
 
 # Railway Lineare
 
+Descrizione della sezione lineare del sistema MCPD.
+
 # Railway Lineare a Condensatori Switchati
 
 ## Funzione
