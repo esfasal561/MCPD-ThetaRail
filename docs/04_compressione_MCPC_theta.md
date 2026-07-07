@@ -1,3 +1,10 @@
+---
+layout: default
+title: Compressione MCPC θ
+---
+
+# Compressione MCPC θ
+
 # Camera di Compressione MCPC + θ‑Pinch
 
 ## Struttura
