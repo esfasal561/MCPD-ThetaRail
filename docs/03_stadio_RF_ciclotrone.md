@@ -1,3 +1,10 @@
+---
+layout: default
+title: Stadio RF Ciclotrone
+---
+
+# Stadio RF Ciclotrone
+
 # Stadio Ciclotrone + RF
 
 ## Gate RF/Ciclotrone
