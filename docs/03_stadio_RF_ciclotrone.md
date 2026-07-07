@@ -5,7 +5,7 @@ title: Stadio RF Ciclotrone
 
 # Stadio RF Ciclotrone
 
-# Stadio Ciclotrone + RF
+Funzionamento dello stadio RF e accelerazione dei protoni.
 
 ## Gate RF/Ciclotrone
 Valvola che separa la Railway iniziale dalla zona di forte campo magnetico e RF.
