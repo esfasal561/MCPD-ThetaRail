@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Immagini Tecniche MCPD
----
-MCPD_FullEngine_IsometricConcept.png
+
 ---
 
 # Immagini Tecniche del Motore MCPD
