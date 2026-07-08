@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 🌀 Architettura del sistema
 
 ## 1. Reattore Toroidale
