@@ -154,3 +154,4 @@ Tutto il design del MCPD:
 ## Frase tecnica di sintesi del tema
 
 > Nel MCPD i protoni sono la componente chiave del plasma per la generazione di spinta. La sorgente spark, la Railway pulsata, il funnel magnetico, la camera di compressione e l’ugello magnetico lavorano in sequenza per aumentare la frazione di protoni, concentrarli, comprimerli e collimarli. La spinta finale del motore è direttamente legata alla massa protonica accelerata e alla velocità di espulsione del flusso, rendendo il controllo dei protoni nel plasma un tema centrale dell’architettura MCPD.
+
