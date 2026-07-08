@@ -25,3 +25,4 @@ L’architettura ThetaRail integra:
 - Ugello magnetico finale
 
 Il sistema è progettato per missioni interplanetarie veloci (es. Terra → Marte in ~45 giorni con 100 MW).
+
