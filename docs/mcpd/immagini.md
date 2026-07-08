@@ -19,8 +19,6 @@ Diagramma tecnico che mostra i moduli principali separati e etichettati:
 - Dome Magnetico
 - Ugello Magnetico
 
-*(Immagine blueprint – vista esplosa)*
-
 ---
 
 ## 🔧 Dettagli Tecnici dei Singoli Moduli
