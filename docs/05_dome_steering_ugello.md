@@ -5,7 +5,7 @@ title: Dome & Ugello Magnetico
 
 # Dome & Ugello Magnetico
 
-Descrizione del dome magnetico, steering del plasma e geometria dell’ugello
+Descrizione del dome magnetico, steering del plasma e geometria dell’ugello.
 
 ## Deflettore Dome
 Sistema di thrust vectoring senza parti meccaniche:
@@ -13,24 +13,11 @@ Sistema di thrust vectoring senza parti meccaniche:
 - campi modulabili in tempo reale
 - deviazione controllata del getto
 
+Il dome magnetico permette di orientare il getto di plasma senza parti mobili, modulando i campi per ottenere micro‑correzioni di assetto (pitch, yaw).
+
 ## Ugello Magnetico
-- Collimazione del plasma
-- Espulsione controllata
-- Generazione della spinta finale
+- Collimazione del plasma  
+- Espulsione controllata  
+- Generazione della spinta finale  
 
----
-
-## 📄 Licenza MCPD
-
-La documentazione del progetto MCPD – Magneto‑Compression Pulsed Drive è rilasciata sotto licenza **Creative Commons Attribution–ShareAlike 4.0 International (CC BY‑SA 4.0)**.
-
-Questa licenza garantisce che il materiale possa essere:
-- letto,
-- studiato,
-- condiviso,
-- riutilizzato,
-- modificato,
-
-a condizione che venga sempre attribuito l’autore originale (**Salvatore Esposito Faraone**) e che eventuali opere derivate mantengano la stessa licenza.
-
-➡️ [Vai alla Licenza MCPD](licenza.html)
+L’ugello magnetico riceve il plasma dalla camera di compressione e ne stabilizza la direzione, riducendo la divergenza del getto e aumentando la spinta utile.
