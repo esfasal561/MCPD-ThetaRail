@@ -2,6 +2,8 @@
 layout: default
 title: Immagini Tecniche MCPD
 ---
+MCPD_FullEngine_IsometricConcept.png
+---
 
 # Immagini Tecniche del Motore MCPD
 Raccolta di schemi, viste esplose e blueprint dei moduli che compongono il motore **Magneto‑Compression Pulsed Drive (MCPD)**.
