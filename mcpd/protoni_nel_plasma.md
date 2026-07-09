@@ -5,19 +5,19 @@ title: Protoni nel Plasma
 
 # Protoni nel Plasma
 
-L’analisi del comportamento dei protoni all’interno del plasma è fondamentale per comprendere il funzionamento del MCPD.  
+L’analisi del comportamento dei protoni all’interno del plasma è fondamentale per comprendere il funzionamento del MCPD.
 Il plasma utilizzato nel sistema è composto da particelle ionizzate che rispondono ai campi magnetici e alle variazioni di densità indotte dal ciclotrone e dalla tenaglia toroidale.
 
 ## Struttura del Plasma
 
-Il plasma è mantenuto in uno stato di confinamento magnetico.  
-I protoni, essendo carichi positivamente, seguono traiettorie elicoidali attorno alle linee di campo.  
+Il plasma è mantenuto in uno stato di confinamento magnetico.
+I protoni, essendo carichi positivamente, seguono traiettorie elicoidali attorno alle linee di campo.
 La loro dinamica è influenzata da:
 
 - intensità del campo magnetico  
 - densità del plasma  
 - energia cinetica iniziale  
-- frequenza ciclotronica
+- frequenza ciclotronica  
 
 ## Frequenza Ciclotronica
 
@@ -48,19 +48,19 @@ L’onda pulsata produce:
 - compressione locale del plasma  
 - aumento della densità  
 - incremento della velocità radiale dei protoni  
-- trasferimento di energia verso la direzione di spinta
+- trasferimento di energia verso la direzione di spinta  
 
 ## Effetti sulla Spinta
 
-La spinta generata dipende dalla variazione di quantità di moto dei protoni accelerati.  
+La spinta generata dipende dalla variazione di quantità di moto dei protoni accelerati.
 Il contributo dei protoni è significativo perché:
 
 - hanno massa maggiore rispetto agli elettroni  
 - rispondono in modo più stabile ai campi pulsati  
-- contribuiscono alla formazione dell’onda di pressione magnetica
+- contribuiscono alla formazione dell’onda di pressione magnetica  
 
 ## Conclusioni
 
-Lo studio dei protoni nel plasma è essenziale per comprendere l’efficienza del MCPD.  
+Lo studio dei protoni nel plasma è essenziale per comprendere l’efficienza del MCPD.
 La loro dinamica, combinata con il campo magnetico pulsato, permette di ottenere una spinta stabile e controllabile, rendendo il sistema adatto a scenari di propulsione avanzata.
 
